@@ -1,0 +1,43 @@
+#afterpartyReview, #myHistoryWithGameFreak, #greatSplurgeOfPlay, #topTen2018, #topTenEver, #historyWithNaughtyDog, #bungieActivision, #PlaystationInsomniac, #playstationExclusives, #playstationSkippingE3, #kh3Review, #controlReview, #myBacklog, #hyperLightDrifterReview, #mcuPhase1, #mcuPhase2, #mcuPhase3, #greatSplurgeOfPlay, #spiderManReview, #hopesAndDreamsE32019, #allTimeJetsTeam, #announcementsFromGameAwards, #myBacklog2, #nintendoDirectFall2019, #anticipatedGamesOf2019, #february2019NintendoDirect, #stateOfJets
+ {
+  background: rgba(255, 255, 255, .1);
+  border-style: solid;
+  border-width: .5em;
+  border-color: rgba(0, 0, 0, .5);
+  border-radius: .8em;
+  padding: .6em .6em .6em .6em;
+  margin: .7em .7em .7em .7em;
+}
+
+#mcuPhase1, #mcuPhase2, #mcuPhase3, #announcementsFromGameAwards {
+  font-size: .76em;
+}
+
+#february2019NintendoDirect, #hopesAndDreamsE32019, #PlaystationInsomniac, #anticipatedGamesOf2019 {
+  font-size: .9em;
+}
+
+#kh3Review, #greatSplurgeOfPlay, #playstationSkippingE3, #spiderManReview, #hyperLightDrifterReview {
+  font-size: .82em;
+}
+
+/* #kh3Review {
+  padding-bottom: 1em;
+}
+
+#afterpartyReview {
+  padding-bottom: 2.7em;
+}
+
+#mcuPhase3 {
+  padding-bottom: 4.5em;
+  margin-bottom: 1em;
+}
+
+#controlReview {
+  margin-bottom: 1em;
+}
+
+#february2019NintendoDirect {
+  padding-bottom: 1.5em;
+} */
